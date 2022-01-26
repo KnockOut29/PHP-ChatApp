@@ -204,7 +204,7 @@ body{
     outline: none;
     opacity: 0;
     pointer-events: none;
-    transition: all 0.3 ease;
+    transition: all 0.2s ease;
 }
 
 .users .search input.active{
@@ -222,7 +222,7 @@ body{
     color: #222;
     cursor: pointer;
     font-size: 17px;
-    transition: all 0.2 ease;
+    transition: all 0.2s ease;
 }
 
 .users .search button.active{
