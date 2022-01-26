@@ -9,7 +9,7 @@
 <body>
     <div class="wrapper">
         <section class="form signup">
-          <header>Vilan Chat App</header>
+          <header>Villan Chat App</header>
             <form action="#" method="POST" enctype="multipart/form-data" autocomplete="off">
              <div class="error-txt"></div>
                
